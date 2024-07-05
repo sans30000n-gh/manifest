@@ -36,7 +36,7 @@
 <project path="hardware/nintendo/u-boot" name="LineageOS/android_hardware_nintendo_u-boot" remote="gh" revision="lineage-21" /> 
 
 <!-- Prebuilt repos -->
-<project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-gnu-9.3" name="LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3" remote="gh" revision="lineage-21" />
+<project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-gnu-9.3" name="LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3" remote="gh" revision="lineage-21.0" />
 
 <!-- External repos -->
 <project path="external/libevdev" name="LineageOS/android_external_libevdev" remote="gh" revision="lineage-21.0" />
